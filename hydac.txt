@@ -1,0 +1,14 @@
+SelectAdd	Address	City	State	Zipcode
+"2260 City Line Road, Bethlehem, PA 18017"	2260 City Line Road	 Bethlehem	 PA	18017
+"2204 Avenue C, Bethlehem, PA 18017"	2204 Avenue C	 Bethlehem	 PA	18017
+"90 Southland Drive, Bethlehem, PA 18017"	90 Southland Drive	 Bethlehem	 PA	18017
+"430 Windy Point Drive, Glendale Heights, IL 60139"	430 Windy Point Drive	 Glendale Heights	 IL	60139
+"2050 Mitchell Boulevard, Schaumburg, IL 60193"	2050 Mitchell Boulevard	 Schaumburg	 IL	60193
+"1749 Paul Avenue,Glendale Heights, IL 60139"	1749 Paul Avenue	 Glendale Heights	 IL	60139
+"300 N. Corporate Dr Ste 215, Brookfield, WI 53045"	300 N. Corporate Dr	 Ste 215 Brookfield	 WI	53045
+"510 Stonegate Drive, Katy, TX 77494"	510 Stonegate Drive	 Katy	 TX	77494
+"1051 Airlie Parkway, Denver, NC 28037"	1051 Airlie Parkway	 Denver	 NC	28037
+"1615 Willow Street, Cheney, WA 99004"	1615 Willow Street	 Cheney	 WA	99004
+"4047 Lincoln Way E. Bldg. D, Wooster, OH 44691"	4047 Lincoln Way E.	 Bldg. D Wooster	 OH	44691
+"540 Carson Road, North Birmingham, AL 35217"	540 Carson Road North	 Birmingham	 AL	35217
+"580 West Park Road, Leetsdale, PA 15056"	580 West Park Road	 Leetsdale	 PA	15056
